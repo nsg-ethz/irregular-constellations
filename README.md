@@ -2,7 +2,9 @@
 
 Data accompanying the paper *All But Regular: Revisiting the Starlink Constellation* (LEO-NET '26).
 
-> [!WARNING] Code coming soon
+> [!WARNING]
+> **Code coming soon.**
+> 
 > We are first releasing the processed data used in
 > the paper. The analysis and topology-construction code will follow shortly
 > after the camera-ready deadline.
