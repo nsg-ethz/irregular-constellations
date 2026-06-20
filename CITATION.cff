@@ -5,16 +5,19 @@ authors:
   - family-names: Ronchetti
     given-names: Pietro
     affiliation: "ETH Zurich"
-    orcid: "https://orcid.org/0000-0000-0000-0000"  # TODO: add your ORCID
+    orcid: "https://orcid.org/0009-0002-5269-991X"
   - family-names: Das
     given-names: Sushovan
     affiliation: "ETH Zurich"
+    orcid: "https://orcid.org/0000-0001-8842-7612"
   - family-names: Vanbever
     given-names: Laurent
     affiliation: "ETH Zurich"
+    orcid: "https://orcid.org/0000-0003-1455-4381"
   - family-names: Vissicchio
     given-names: Stefano
     affiliation: "University College London"
+    orcid: "https://orcid.org/0000-0003-3699-8127"
 license: GPL-3.0
 repository-code: "https://github.com/nsg-ethz/irregular-constellations"
 preferred-citation:
@@ -24,15 +27,19 @@ preferred-citation:
     - family-names: Ronchetti
       given-names: Pietro
       affiliation: "ETH Zurich"
+      orcid: "https://orcid.org/0009-0002-5269-991X"
     - family-names: Das
       given-names: Sushovan
       affiliation: "ETH Zurich"
+      orcid: "https://orcid.org/0000-0001-8842-7612"
     - family-names: Vanbever
       given-names: Laurent
       affiliation: "ETH Zurich"
+      orcid: "https://orcid.org/0000-0003-1455-4381"
     - family-names: Vissicchio
       given-names: Stefano
       affiliation: "University College London"
+      orcid: "https://orcid.org/0000-0003-3699-8127"
   collection-title: "Proceedings of the 4th Workshop on LEO Networking and Communication (LEO-NET '26)"
   conference:
     name: "4th Workshop on LEO Networking and Communication"
