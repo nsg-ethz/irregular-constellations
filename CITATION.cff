@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite the paper below."
+title: "All But Regular: Revisiting the Starlink Constellation"
+authors:
+  - family-names: Ronchetti
+    given-names: Pietro
+    affiliation: "ETH Zurich"
+    orcid: "https://orcid.org/0000-0000-0000-0000"  # TODO: add your ORCID
+  - family-names: Das
+    given-names: Sushovan
+    affiliation: "ETH Zurich"
+  - family-names: Vanbever
+    given-names: Laurent
+    affiliation: "ETH Zurich"
+  - family-names: Vissicchio
+    given-names: Stefano
+    affiliation: "University College London"
+license: GPL-3.0
+repository-code: "https://github.com/nsg-ethz/irregular-constellations"
+preferred-citation:
+  type: conference-paper
+  title: "All But Regular: Revisiting the Starlink Constellation"
+  authors:
+    - family-names: Ronchetti
+      given-names: Pietro
+      affiliation: "ETH Zurich"
+    - family-names: Das
+      given-names: Sushovan
+      affiliation: "ETH Zurich"
+    - family-names: Vanbever
+      given-names: Laurent
+      affiliation: "ETH Zurich"
+    - family-names: Vissicchio
+      given-names: Stefano
+      affiliation: "University College London"
+  collection-title: "Proceedings of the 4th Workshop on LEO Networking and Communication (LEO-NET '26)"
+  conference:
+    name: "4th Workshop on LEO Networking and Communication"
+    city: "Denver"
+    region: "Colorado"
+    country: "US"
+  year: 2026
+  month: 8
+  publisher:
+    name: "Association for Computing Machinery"
+  doi: "10.1145/3789240.3827597"
+  isbn: "979-8-4007-2467-1"
