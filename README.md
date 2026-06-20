@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.1145%2F3789240.3827597-blue)](https://doi.org/10.1145/3789240.3827597)
+
 # All But Regular: Revisiting the Starlink Constellation
 
 Data accompanying the paper *All But Regular: Revisiting the Starlink Constellation* (LEO-NET '26).
