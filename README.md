@@ -17,7 +17,6 @@ Data accompanying the paper *All But Regular: Revisiting the Starlink Constellat
   author    = {Ronchetti, Pietro and Das, Sushovan and Vanbever, Laurent and Vissicchio, Stefano},
   booktitle = {Proceedings of the 4th Workshop on LEO Networking and Communication (LEO-NET '26)},
   year      = {2026},
-  month     = aug,
   address   = {Denver, CO, USA},
   publisher = {Association for Computing Machinery},
   doi       = {10.1145/3789240.3827597},
