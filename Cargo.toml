@@ -1,0 +1,24 @@
+[package]
+name = "irregular_constellations"
+version = "1.0.0"
+edition = "2021"
+description = "Reconstruction, idealization and irregularity classification of the Starlink constellation from public satellite data"
+license = "AGPL-3.0-or-later"
+repository = "https://github.com/nsg-ethz/irregular-constellations"
+
+[dependencies]
+anyhow = "1.0.102"
+chrono = "0.4.43"
+csv = "1.4.0"
+itertools = "0.14.0"
+log = "0.4"
+petgraph = { version = "0.8.2", features = ["serde-1"] }
+pretty_env_logger = "0.5"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+serde_with = { version = "3.18.0", features = ["json"] }
+sgp4 = "2.4.0"
+ureq = { version = "3.2.0", features = ["json"] }
+
+[dev-dependencies]
+test-log = "0.2.11"
