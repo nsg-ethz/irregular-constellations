@@ -1,5 +1,11 @@
 # All But Regular: Revisiting the Starlink Constellation
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6427a3c5-8343-4b8c-a631-3433a5552413">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6427a3c5-8343-4b8c-a631-3433a5552413">
+  <img alt="Hero image" src="https://github.com/user-attachments/assets/6427a3c5-8343-4b8c-a631-3433a5552413">
+</picture>
+
 Code and data accompanying the paper *All But Regular: Revisiting the Starlink Constellation*
 (LEO-NET '26) by Pietro Ronchetti, Sushovan Das, Laurent Vanbever and Stefano Vissicchio.
 
